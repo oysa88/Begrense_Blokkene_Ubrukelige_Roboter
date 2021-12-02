@@ -1,5 +1,7 @@
 # Servo
 
+## Steg 1
+
 ```blocks
 input.onButtonPressed(Button.A, function () {
 	
