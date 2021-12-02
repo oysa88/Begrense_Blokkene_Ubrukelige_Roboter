@@ -35,3 +35,7 @@ basic.forever(function () {
 	
 })
 ```
+
+```package
+BitBot=github:4tronix/bitbot#1.5.2
+```
