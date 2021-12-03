@@ -4,4 +4,4 @@
         . . . . . 
         . . . . . 
         . . . . .
-        `</field><next><block type="basic_show_icon" id="{MkQBht8$gK=FF.yGu!O"><field name="i">IconNames.Heart</field><next><block type="device_print_message" id="yeL/uKj8K6{Dohr|$x46"><value name="text"><shadow type="text" id="!*2];;qIj$Xsw`M){h;2"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_clear_display" id="PV(kp`m%$so:Ix4Mz]jE"/></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_clear_display" id="PV(kp`m%$so:Ix4Mz]jE"><next><block type="basic_show_icon" id="{MkQBht8$gK=FF.yGu!O"><field name="i">IconNames.Heart</field><next><block type="device_print_message" id="yeL/uKj8K6{Dohr|$x46"><value name="text"><shadow type="text" id="!*2];;qIj$Xsw`M){h;2"><field name="TEXT">Hello!</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>

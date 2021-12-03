@@ -21,9 +21,9 @@ input.onGesture(Gesture.Shake, function () {
         . . . . .
         . . . . .
         `)
+    basic.clearScreen()
     basic.showIcon(IconNames.Heart)
     basic.showString("Hello!")
-    basic.clearScreen()
 })
 basic.forever(function () {
     basic.pause(100)
