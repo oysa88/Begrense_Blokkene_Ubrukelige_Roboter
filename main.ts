@@ -5,6 +5,13 @@ input.onButtonPressed(Button.A, function () {
     bitbot.bbServoTrim(BBServos.P1, 5)
     if (randint(0, 10) == 0 + 0) {
         variabel = 0
+        for (let index = 0; index < 4; index++) {
+            while (false) {
+                for (let indeks = 0; indeks <= 4; indeks++) {
+                	
+                }
+            }
+        }
     }
 })
 input.onGesture(Gesture.Shake, function () {
@@ -25,6 +32,9 @@ input.onGesture(Gesture.Shake, function () {
 })
 let variabel = 0
 basic.showNumber(0)
+loops.everyInterval(500, function () {
+	
+})
 basic.forever(function () {
     basic.pause(100)
 })
